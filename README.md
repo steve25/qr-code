@@ -15,8 +15,8 @@ My first try in Frontend Mentor challenges.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/steve25/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/steve25/qr-code](https://github.com/steve25/qr-code)
+- Live Site URL: [https://steve25.github.io/qr-code/](https://steve25.github.io/qr-code/)
 
 
 ### Built with
